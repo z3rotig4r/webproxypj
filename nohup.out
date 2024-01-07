@@ -1,0 +1,53 @@
+INFO:     Will watch for changes in these directories: ['/home/zerotiger/dev/proxy_pj01']
+INFO:     Uvicorn running on http://0.0.0.0:1441 (Press CTRL+C to quit)
+INFO:     Started reloader process [28134] using StatReload
+INFO:     Started server process [28136]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     121.133.247.226:17802 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:17802 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:17802 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:17805 - "GET / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:17805 - "POST / HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [28136]
+INFO:     Stopping reloader process [28134]
+INFO:     Will watch for changes in these directories: ['/home/zerotiger/dev/proxy_pj01']
+INFO:     Uvicorn running on http://0.0.0.0:1441 (Press CTRL+C to quit)
+INFO:     Started reloader process [28141] using StatReload
+INFO:     Started server process [28143]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     121.133.247.226:18034 - "POST / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18034 - "GET / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18034 - "POST / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18102 - "GET / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18200 - "POST / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18235 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18235 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18368 - "GET / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18419 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18536 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18644 - "POST / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18666 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18766 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18875 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18878 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18916 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18916 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18962 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18962 - "GET / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18962 - "POST / HTTP/1.1" 200 OK
+INFO:     121.133.247.226:18962 - "POST /comment/view HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18962 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:18962 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:20141 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:20141 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:31827 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:31827 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:33322 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:34799 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:34818 - "GET /namecard HTTP/1.1" 404 Not Found
+INFO:     121.133.247.226:35485 - "GET /namecard HTTP/1.1" 404 Not Found
